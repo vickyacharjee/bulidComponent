@@ -5,7 +5,7 @@ import {CDN_MOCK_DATA} from "../utils/constants"
         <div className="body">
              {/* filter component */}
             <div className="filter"> 
-              <button className="filter-btn" onClick={()=>{console.log("hey button is clicked")}}> 
+              <button className="filter-btn" onClick={()=>{console.log("hey button is clicked and checked")}}> 
                      Top Rated Restaurant
               </button>     
             </div>
