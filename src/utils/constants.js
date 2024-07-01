@@ -8,7 +8,7 @@ export const CDN_MOCK_DATA=[
       "name": "Pasta Paradise",
       "cuisine": "Italian",
       "order_time": "30 minutes",
-      "rating": 4.5,
+      "rating": 3.5,
       "imageId": "5116a385bac0548e06c33c08350fbf11"
     },
     {
