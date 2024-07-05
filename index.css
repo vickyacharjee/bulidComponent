@@ -32,8 +32,12 @@
     border: 2px solid black;
     cursor: pointer;
 }
+.resCard > h6{
+
+}
 .resCardImage{
     height: 230px;
+    width: 200px;
 }
 .res-container{
     display: flex;
@@ -42,4 +46,7 @@
 }
 .filter-btn{
    margin: 10px;
+}
+.cuisines{
+    margin-right:  10px;
 }
